@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="j_lia_lustre">Júlia Lustre</string>
+    <string name="yellow_star">yellow_star</string>
+    <string name="bio">Olá, meu nome é Júlia.
+     \n\nEste é um texto scroll.
+     \n\Este é um texto scroll.Testando o scroll text.
+     \n\Este é um texto scroll.Testando o scroll text.
+     \n\Este é um texto scroll.Testando o scroll text.
+     \n\Este é um texto scroll.Testando o scroll text.
+     \n\Este é um texto scroll.Testando o scroll text.
+     \n\Este é um texto scroll.
+     \n\Este é um texto scroll.
+     \n\nJúlia.
+     \n\nLustre.
+     \n\n\Este é um texto scroll.Testando o scroll text.
+     \n\Este é um texto scroll.Testando o scroll text.
+     \n\Este é um texto scroll.Testando o scroll text.
+     \n\Este é um texto scroll.Testando o scroll text.
+     \n\Este é um texto scroll.Testando o scroll text.
+     \n\Este é um texto scroll.</string>
+    <string name="qual_seu_apelido">Qual é seu apelido?</string>
+    <string name="clicar">Clicar</string>
+
+</resources>
